@@ -1,0 +1,5 @@
+Uploaded_Image = ''
+Comparision_Image = ''
+Model = ''
+Url = ''
+Category = ''
